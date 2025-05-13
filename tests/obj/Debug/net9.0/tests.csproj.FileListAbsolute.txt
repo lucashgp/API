@@ -111,3 +111,5 @@ C:\Users\lucas\Ebanx-API\tests\obj\Debug\net9.0\refint\tests.dll
 C:\Users\lucas\Ebanx-API\tests\obj\Debug\net9.0\tests.pdb
 C:\Users\lucas\Ebanx-API\tests\obj\Debug\net9.0\tests.genruntimeconfig.cache
 C:\Users\lucas\Ebanx-API\tests\obj\Debug\net9.0\ref\tests.dll
+C:\Users\lucas\Ebanx-API\tests\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\lucas\Ebanx-API\tests\bin\Debug\net9.0\Moq.dll
