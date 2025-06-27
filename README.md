@@ -1,4 +1,4 @@
-# **Ebanx API**
+# **API Bancaria**
 
 Este projeto é uma aplicação para gerenciar contas bancárias, permitindo operações como depósito, saque, transferência e consulta de saldo, utilizando uma modelagem de software baseada DDD
 
